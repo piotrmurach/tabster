@@ -1,9 +1,8 @@
 = tabster
 
-Description goes here.
 
 == Contributing to tabster
- 
+
 * Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet
 * Check out the issue tracker to make sure someone already hasn't requested it and/or contributed it
 * Fork the project
@@ -16,4 +15,3 @@ Description goes here.
 
 Copyright (c) 2011 Piotr Murach. See LICENSE.txt for
 further details.
-
