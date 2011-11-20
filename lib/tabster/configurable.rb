@@ -1,4 +1,4 @@
-module Tabacious
+module Tabster
   module Configurable
 
     # Holds all the parameters for the Tabster initializer and defaults
@@ -67,5 +67,5 @@ module Tabacious
 
     end
 
-  end #Configurable
-end #Tabster
+  end # Configurable
+end # Tabster
