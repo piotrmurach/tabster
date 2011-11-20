@@ -13,7 +13,7 @@ module Tabster
     end
 
     def add(name, options = {}, &block)
-      add_tab(name, options, &block)   
+      add_tab(name, options, &block)
     end
 
     def add_tab(name, options = {}, &block)
